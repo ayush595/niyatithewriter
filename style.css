@@ -1,0 +1,103 @@
+body {
+    text-align: center;
+}
+
+#lol {
+    width: 170px;
+    margin-bottom: 50px;
+    border-radius: 60%;
+}
+
+#welcome {
+    height: 800px;
+    margin-top: 100px;
+    width: 100%;
+    background: linear-gradient(lime, yellow);
+    padding-top: 50px;
+    border-radius: 30px;
+    z-index: 9;
+}
+
+h1 {
+    font-family: monospace, cursive;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#bio {
+    padding: 50px;
+    border-radius: 30px;
+    background: linear-gradient(aqua, teal);
+    margin-top: 30px;
+}
+
+.line {
+    height: 5px;
+    width: 70px;
+    margin: 5px auto;
+    background-color: darkgreen;
+}
+
+#bio p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+#article {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+#article:hover {
+    color: aquamarine;
+}
+
+#videos {
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    background: linear-gradient(aliceblue, aquamarine)
+}
+
+#work {
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    background: linear-gradient(chocolate, coral);
+}
+
+#writings {
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    background: linear-gradient(darkorange, darkviolet);
+
+}
+#contact{
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 30px;
+    background: linear-gradient(darkcyan,cyan)
+        
+}
+#contact iframe{
+    width: 100%;
+}
+#contact h3{
+    color: white;
+    display: inline;
+    
+}
+    
